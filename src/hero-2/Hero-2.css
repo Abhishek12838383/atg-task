@@ -1,0 +1,25 @@
+.heroo{
+    margin-top: 50px;
+    background-color: rgb(220, 240, 253);
+}
+.heroo-title{
+    margin-left: 5vw;
+    padding-top: 10vh;
+}
+.start{
+    margin-left: 5vw;
+    margin-top: 20px;
+    margin-bottom: 2px;
+    height: 35px;
+    width: 100px;
+    border-radius: 6px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    background-color: #8064a2;
+}
+.heroo-img img{
+    max-height: 100%;
+    width: auto;
+}

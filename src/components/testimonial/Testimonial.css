@@ -1,0 +1,36 @@
+.tetsi{
+    background-color: #f4edfa;
+}
+.testi-title{
+    margin-left: 3vw;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+.testi-title img{
+    margin-right: 10px;
+}
+.testi-para{
+    margin-top: 20px;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    font-size: 14px;
+    color: gray;
+}
+.testi-record{
+    margin-top: 30px;
+    display: flex;
+    gap: 150px;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+.rec-1 img{
+    height: 100px;
+margin-left: 3vw;
+width: auto;
+}
+.rec-2 img{
+    height: 80px;
+}
+

@@ -1,0 +1,35 @@
+.box{
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+    width: 400px;
+}
+.box-top{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.box-para{
+    font-size: 14px;
+    color: gray;
+    width: 350px;
+    margin-top: 20px;
+}
+.co{
+        margin-top: 20px;
+        border-radius: 10px;
+        background-color: #8064A2;
+        color: white;
+        border: 1px solid #8064A2;
+        border: none;
+        height: 25px;
+        width: 130px;
+        padding: 10px;
+        font-size: 14px;
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
